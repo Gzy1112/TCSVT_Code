@@ -1,8 +1,8 @@
-# ML<sup>2</sup>A zero-shot visio-linguistic compositional reasoning method between image/video-text modalities based on multimodal LLM and autoregressive GLM
+# A zero-shot visio-linguistic compositional reasoning method between image/video-text modalities based on multimodal LLM and autoregressive GLM
 
 
 
-Experiments and data for the paper "ML<sup>2</sup>A zero-shot visio-linguistic compositional reasoning method between image/video-text modalities based on multimodal LLM and autoregressive GLM". 
+Experiments and data for the paper "A zero-shot visio-linguistic compositional reasoning method between image/video-text modalities based on multimodal LLM and autoregressive GLM". 
 
 
 
