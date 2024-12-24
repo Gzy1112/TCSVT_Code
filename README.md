@@ -1,8 +1,8 @@
-# ML<sup>2</sup>MG-VLCR++: A Multimodal LLM Guided Zero-shot Method for Visio-Linguistic Compositional Reasoning with Autoregressive Generative Language Model
+# ML<sup>2</sup>VLCR-IVT: A zero-shot visio-linguistic compositional reasoning method between image/video-text modalities based on multimodal LLM and autoregressive GLM
 
 
 
-Experiments and data for the paper "ML<sup>2</sup>MG-VLCR++: A Multimodal LLM Guided Zero-shot Method for Visio-Linguistic Compositional Reasoning with Autoregressive Generative Language Model". 
+Experiments and data for the paper "ML<sup>2</sup>VLCR-IVT: A zero-shot visio-linguistic compositional reasoning method between image/video-text modalities based on multimodal LLM and autoregressive GLM". 
 
 
 
