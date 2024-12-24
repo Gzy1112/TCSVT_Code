@@ -1,8 +1,8 @@
-# A zero-shot visio-linguistic compositional reasoning method between image/video-text modalities based on multimodal LLM and autoregressive GLM
+# VLCR-IVT: A zero-shot visio-linguistic compositional reasoning method between image/video-text modalities based on multimodal LLM and autoregressive GLM
 
 
 
-Experiments and data for the paper "A zero-shot visio-linguistic compositional reasoning method between image/video-text modalities based on multimodal LLM and autoregressive GLM". 
+Experiments and data for the paper "VLCR-IVT: A zero-shot visio-linguistic compositional reasoning method between image/video-text modalities based on multimodal LLM and autoregressive GLM". 
 
 
 
